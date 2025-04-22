@@ -92,4 +92,6 @@ public class DiscountCalculatorTest {
         assertTrue(isSpecial);
         assertEquals(7, discount);
     }
+
+
 }
